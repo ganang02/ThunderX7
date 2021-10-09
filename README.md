@@ -28,7 +28,7 @@ Update fake vn dan laen laen
 > apt-get install ffmpeg -y
 > apt-get install libwebp -y
 > git clone https://github.com/TheGetsuzoThunder/znxinvasion
-> cd znxinvasion
+> cd ThunderX7
 > bash wibu.sh
 > npm start
 ```
